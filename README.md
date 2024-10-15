@@ -71,7 +71,7 @@
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,scala,postman,tailwind,postgresql,ts,docker,react,kubernetes,js,next,nodejs,mongodb,git,github,jest,django,c&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,scala,postman,tailwind,postgresql,ts,docker,react,kubernetes,js,next,nodejs,mongodb,git,solidity,jest,django,c&perline=10)](#)
 
 </div>
 
