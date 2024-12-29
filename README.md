@@ -95,7 +95,7 @@
 
 [![Kiryl's current streak](https://streak-stats.demolab.com/?user=Wondamonstaa&count_private=true&theme=radical&title_color=fe428e)](#)
 
-[![Venom Capsule](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Wondamonsta&textBg=false)](#)
+[![Venom Capsule](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=::masτΞrmιnd::&textBg=false)](#)
 
 </div>
 
