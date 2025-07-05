@@ -2,8 +2,8 @@
 # I'm Kiryl <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
-- AI/ML Engineer & Web3 Blockchain Developer.     
-- Healthcare Advocate and Longetivity Medicine Promoter.  
+- AI/ML Engineer & Web3 Blockchain Developer.
+- DDS in the past.   
 - Passionate Visionary Dedicated to Crafting Purpose-Driven Digital Solutions.  
 - Always open to project collaborations and opportunities: <!--</a><a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
